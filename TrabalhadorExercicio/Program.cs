@@ -4,6 +4,7 @@ using TrabalhadorExercicio.Entities.Enum;
 using TrabalhadorExercicio.Entities;
 
 // Testando
+//testando 3
 namespace TrabalhadorExercicio
 {
     internal class Program
@@ -48,6 +49,7 @@ namespace TrabalhadorExercicio
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Department: " + worker.Department.Name);
             Console.WriteLine("Income for " + monthAndYear + ": "+ worker.Income(years,month));
+            Console.WriteLine("Testando code");
             
              
         }
