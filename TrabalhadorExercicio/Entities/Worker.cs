@@ -10,6 +10,7 @@ namespace TrabalhadorExercicio.Entities
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
+        public string Number { get; set; }
 
         public Worker(string name)
         {
