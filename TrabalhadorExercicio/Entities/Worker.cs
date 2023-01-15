@@ -11,6 +11,7 @@ namespace TrabalhadorExercicio.Entities
         public Department Department { get; set; }
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
         public string Number { get; set; }
+        public string CPF { get; set; }
 
         public Worker(string name)
         {
