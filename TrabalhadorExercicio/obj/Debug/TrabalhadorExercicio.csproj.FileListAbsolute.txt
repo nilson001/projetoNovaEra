@@ -1,0 +1,6 @@
+/home/nilson/Teste/ExercicioCursoCsharp/TrabalhadorExercicio/TrabalhadorExercicio/bin/Debug/TrabalhadorExercicio.exe
+/home/nilson/Teste/ExercicioCursoCsharp/TrabalhadorExercicio/TrabalhadorExercicio/bin/Debug/TrabalhadorExercicio.pdb
+/home/nilson/Teste/ExercicioCursoCsharp/TrabalhadorExercicio/TrabalhadorExercicio/obj/Debug/TrabalhadorExercicio.csproj.AssemblyReference.cache
+/home/nilson/Teste/ExercicioCursoCsharp/TrabalhadorExercicio/TrabalhadorExercicio/obj/Debug/TrabalhadorExercicio.csproj.CoreCompileInputs.cache
+/home/nilson/Teste/ExercicioCursoCsharp/TrabalhadorExercicio/TrabalhadorExercicio/obj/Debug/TrabalhadorExercicio.exe
+/home/nilson/Teste/ExercicioCursoCsharp/TrabalhadorExercicio/TrabalhadorExercicio/obj/Debug/TrabalhadorExercicio.pdb
