@@ -4,7 +4,7 @@ using TrabalhadorExercicio.Entities.Enum;
 using TrabalhadorExercicio.Entities;
 
 // Testando
-//Testando 2
+//Testando 2 
 namespace TrabalhadorExercicio
 {
     internal class Program
