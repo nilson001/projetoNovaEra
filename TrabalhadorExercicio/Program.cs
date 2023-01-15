@@ -3,7 +3,7 @@ using System.Globalization;
 using TrabalhadorExercicio.Entities.Enum;
 using TrabalhadorExercicio.Entities;
 
-
+// Testando
 namespace TrabalhadorExercicio
 {
     internal class Program
